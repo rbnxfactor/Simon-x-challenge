@@ -7,7 +7,7 @@ I developed a pure javascript game and I wanted to share my work so that everyon
 
 Below are the steps you should follow:.
 
-Step 1: Click the green button in the upper right-hand corner, which is called the clone.
+Step 1: Click the green button in the upper right-hand corner, which is called the code.
 
 Step 2: If you have no Github Desktop account, then you can upload the zip file.
 
